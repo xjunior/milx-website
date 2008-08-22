@@ -1,0 +1,61 @@
+/* ----------------------------------------------------------------------------------------------------------
+
+    This website template was downloaded from http://www.nuviotemplates.com - visit us for more templates
+
+---------------------------------------------------------------------------------------------------------- */
+
+/* ----------------------------------------------------------------------------------------------------------
+HTML tags, reset
+---------------------------------------------------------------------------------------------------------- */
+
+a {color:#034691;}
+a:hover {color:#FF9F00;}
+
+body {background-color:#cce6ff;}
+
+/* ----------------------------------------------------------------------------------------------------------
+Universal styles (display, float, margin, text-align...)
+---------------------------------------------------------------------------------------------------------- */
+
+.low {color:#888;}
+
+/* ----------------------------------------------------------------------------------------------------------
+Layout
+---------------------------------------------------------------------------------------------------------- */
+
+#header {background-color:#034691;}
+
+    #logo span {color:#FF9F00;}
+    #logo a {color:#FFF !important;}
+
+    #rss a {color:#FFF;}
+
+#cols {background-color:#FFF;}
+
+    #content #title {background-color:#FF9F00; color:#FFF;}
+
+    #about {border-top:1px solid #B2DBFF; background-color:#E6F3FF;}
+
+    .nav {border-top:1px solid #E6F3FF;}
+    .nav a {border-bottom:1px solid #E6F3FF;}
+    .nav li.nav-active a {color:#FF9F00;}
+
+#footer {background-color:#B2D9FF; color:#034691;}
+#footer a {color:#034691;}
+
+/* ----------------------------------------------------------------------------------------------------------
+Page: Homepage
+---------------------------------------------------------------------------------------------------------- */
+
+#perex {background-color:#eef7ff;}
+
+.cols5050 .col dl.list dt {background-color:#FFF;}
+.cols5050 .col dl.list dt a {color:#0087FC;}
+.cols5050 .col dl.list dt a:hover {color:#FF9F00;}
+
+#calendar th {background:#CCE6FF; color:#022E5F;}
+#calendar th, #calendar td {border:1px solid #CCE6FF;}
+#calendar td#calendar-active {background:#FF9F00; color:#FFF;}
+#calendar tr.bg td {background:#F0F8FF;}
+
+.button {border:1px solid #034691; background-color:#034691; color:#FFF;}
